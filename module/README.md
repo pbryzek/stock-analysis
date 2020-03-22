@@ -2,9 +2,6 @@
 
 ## Week 2 
 
-### Challenge
-[Challenge](challenge/)
-
 ### Module
-[Module](module/)
+These are the files used to complete the week 2 module
 

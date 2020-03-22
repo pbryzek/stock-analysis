@@ -3,6 +3,10 @@
 ## Week 2 Stock Analysis with Excel VBA Programming
 
 ### Challenge
-[Challenges](challenge/)
+[Challenge](challenge/)
+
 ### Module
-[Modules](module/)
+[Module](module/)
+
+### Assessment
+[Assessment](assessment/)
